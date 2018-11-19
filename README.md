@@ -40,4 +40,4 @@ Author Information
 ------------------
 
 Maxim Kosterin student of otus
-
+.
