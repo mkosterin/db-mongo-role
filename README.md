@@ -39,5 +39,5 @@ BSD
 Author Information
 ------------------
 
-Maxim Kosterin student of otus.
+Maxim Kosterin student of otus
 
